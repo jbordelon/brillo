@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Brillo
+Comment=Brillo y Contraste
+Exec=python3 /home/brillo.py
+Icon=hook-notifier
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Settings;DesktopSettings;X-Unity-Settings-Panel;X-GNOME-PersonalSettings
+OnlyShowIn=Unity7;
+X-Unity-Settings-Panel=screen
+Keywords=Brightness;Lock;Dim;Blank;Monitor;
+X-Ubuntu-Gettext-Domain=unity-control-center
